@@ -35,3 +35,10 @@ Copy code
 - فقط زمانی می‌توان عملیات بانکی انجام داد که کاربر وارد حساب شده باشد.
 
 ## نمونه خروجی
+
+
+Registered successfully.
+Assigned card number: 6037991122334455
+Login successful.
+Deposit successful. Current balance: 1000.0
+Withdrawal successful. Current balance: 500.0
